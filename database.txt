@@ -1,0 +1,81 @@
+id_piosenki; tytul; wykonawca; gatunek; data_wydania; popularnosc
+1; Bohemian Rhapsody; Queen; Rock; 1975; 93
+2; I Want to Break Free; Queen; Rock; 1984; 76
+3; Call Your Girlfriend; Robyn; Pop; 2010; 38
+4; Radio Warszawa; Sidney Polak; Alternative; 2004; 28
+5; Jah Jest Prezydentem; Vavamuffin; Reggae; 2005; 13
+6; Another One Bites the Dust; Queen; Rock; 1980; 73
+7; Dont Stop Me Now; Queen; Rock; 1979; 67
+8; Under Pressure; Queen; Rock; 1981; 77
+9; We Will Rock You; Queen; Rock; 1977; 86
+10; Back in Black; AC/DC; Hard Rock; 1980; 83
+11; Highway to Hell; AC/DC; Hard Rock; 1979; 86
+12; Thunderstruck; AC/DC; Hard Rock; 1990; 91
+13; You Shook Me All Night Long; AC/DC; Hard Rock; 1980; 65
+14; T.N.T.; AC/DC; Hard Rock; 1975; 72
+15; Dirty Deeds Done Dirt Cheap; AC/DC; Hard Rock; 1976; 58
+16; Whole Lotta Rosie; AC/DC; Hard Rock; 1977; 69
+17; Shoot to Thrill; AC/DC; Hard Rock; 1980; 74
+18; Hells Bells; AC/DC; Hard Rock; 1980; 71
+19; November Rain; Guns N Roses; Rock; 1991; 82
+20; Sweet Child O Mine; Guns N Roses; Rock; 1987; 78
+21; Paradise City; Guns N Roses; Rock; 1987; 90
+22; Knocking On Heavens Door; Guns N Roses; Rock; 1990; 70
+23; Welcome To The Jungle; Guns N Roses; Rock; 1987; 90
+24; Dont Cry; Guns N Roses; Rock; 1991; 72
+25; Live And Let Die; Guns N Roses; Rock; 1991; 68
+26; You Could Be Mine; Guns N Roses; Rock; 1991; 66
+27; Patience; Guns N Roses; Rock; 1988; 64
+28; Civil War; Guns N Roses; Rock; 1988; 61
+29; Pass the Peas; Maceo Parker; Funk; 1992; 55
+30; Yes We Can Can; Maceo Parker; R&B/Soul; 2020; 60
+31; Childrens World; Maceo Parker; Jazz; 1990; 65
+32; Tell Me Something Good; Maceo Parker; Funk; 1998; 62
+33; Chicken; Maceo Parker; Jazz; 1991; 58
+34; Uptown Up; Maceo Parker; R&B/Soul; 1991; 57
+35; Georgia on My Mind; Maceo Parker; Jazz; 1992; 66
+36; Hotel California; Eagles; Rock; 1976; 67
+37; Sweet Home Alabama; Lynyrd Skynyrd; Rock; 1974; 100
+38; All Star; Smash Mouth; Pop; 2009; 100
+39; Without Me; Eminem; Rap; 2002; 89
+40; The Real Slim Shady; Eminem; Rap; 2000; 76
+41; Till I Collapse; Eminem; Rap; 2002; 75
+42; 8 Ball; N.W.A.; Rap; 1987; 78
+43; Gangsta Gangsta; N.W.A.; Rap; 1988; 75
+44; Express Yourself; N.W.A.; Rap; 1988; 72
+45; Alwayz Into Somethin; N.W.A.; Rap; 1991; 70
+46; Chin Check; N.W.A.; Rap; 1999; 67
+47; Dopeman; N.W.A.; Rap; 1987;
+48; Appetite for Destruction; N.W.A.; Rap; 1991; 75
+49; Appetite for Destruction; Guns N Roses; Rock; 1987; 62
+50; A Bitch Iz a Bitch; N.W.A.; Rap; 1991; 64
+51; Grown Man Sport; Pete Rock; Rap; 2003; 58
+52; Square One; Pete Rock; Rap; 2003; 54
+53; Fakin Jax; Pete Rock; Rap; 2003; 52
+54; Step Up; Pete Rock; Rap; 2003; 48
+55; No More Words; Pete Rock; Rap; 2003; 42
+56; Think Twice; Pete Rock; Rap; 2003; 38
+57; Billie Jean; Michael Jackson; Pop; 1982; 95
+58; Beat It; Michael Jackson; Pop; 1982; 91
+59; Smooth Criminal; Michael Jackson; Pop; 1988; 89
+60; Dont Stop til You Get Enough; Michael Jackson; Pop; 1979; 88
+61; Rock With You; Michael Jackson; Pop; 1979; 87
+62; The Way You Make Me Feel; Michael Jackson; Pop; 1987; 91
+63; They Dont Care About Us; Michael Jackson; Pop; 1995; 86
+64; Bad; Michael Jackson; Pop; 1987; 85
+65; Y.M.C.A.; Village People; Disco; 1978; 91
+66; In the Navy; Village People; Disco; 1979; 72
+67; Go West; Village People; Pop; 1979; 61
+68; My Way; Frank Sinatra; Pop; 1969; 91
+69; Fly Me to the Moon; Frank Sinatra; Jazz; 1954; 96
+70; Something Stupid; Frank Sinatra; Jazz; 1967; 82
+71; Thats Life; Frank Sinatra; Pop; 1966; 75
+72; Strangers In The Night; Frank Sinatra; Jazz; 1966; 83
+73; I ve Got You Under My Skin; Frank Sinatra; Jazz; 1963; 79
+74; Come Fly with Me; Frank Sinatra; Jazz; 1958; 78
+75; The Way You Look Tonight; Frank Sinatra; Jazz; 1964; 79
+76; You Make Me Feel so Young; Frank Sinatra; Jazz; 1956; 74
+77; The Nights; Avicii; Folktronica; 2014; 92
+78; Wake Me Up; Avicii; Folktronica; 2013; 95
+79; Straight Outta Compton; N.W.A.; Rap; 1988; 79
+80; Fuck Tha Police; N.W.A.; Rap; 1988; 94
