@@ -5,7 +5,7 @@
 
 <?php  
     if(!isset($_SESSION['zalogowany'])){
-        if ($_POST['login'] != "midas" || $_POST['password'] != "2137")
+        if ($_POST['login'] != "" || $_POST['password'] != "")
         {
             $_SESSION['error']='error';
             header('Location: login.php');
